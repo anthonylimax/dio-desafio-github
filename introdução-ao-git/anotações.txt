@@ -1,1 +1,1 @@
-link para download do git: 
+irei utilizar o github para armazenar uma calculadora simples de console, programada em C#.

@@ -1,0 +1,15 @@
+C:\Users\anthc\workspace\dio-desafio-github\bin\Debug\net6.0\dio-desafio-github.exe
+C:\Users\anthc\workspace\dio-desafio-github\bin\Debug\net6.0\dio-desafio-github.deps.json
+C:\Users\anthc\workspace\dio-desafio-github\bin\Debug\net6.0\dio-desafio-github.runtimeconfig.json
+C:\Users\anthc\workspace\dio-desafio-github\bin\Debug\net6.0\dio-desafio-github.dll
+C:\Users\anthc\workspace\dio-desafio-github\bin\Debug\net6.0\dio-desafio-github.pdb
+C:\Users\anthc\workspace\dio-desafio-github\obj\Debug\net6.0\dio-desafio-github.csproj.AssemblyReference.cache
+C:\Users\anthc\workspace\dio-desafio-github\obj\Debug\net6.0\dio-desafio-github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anthc\workspace\dio-desafio-github\obj\Debug\net6.0\dio-desafio-github.AssemblyInfoInputs.cache
+C:\Users\anthc\workspace\dio-desafio-github\obj\Debug\net6.0\dio-desafio-github.AssemblyInfo.cs
+C:\Users\anthc\workspace\dio-desafio-github\obj\Debug\net6.0\dio-desafio-github.csproj.CoreCompileInputs.cache
+C:\Users\anthc\workspace\dio-desafio-github\obj\Debug\net6.0\dio-desafio-github.dll
+C:\Users\anthc\workspace\dio-desafio-github\obj\Debug\net6.0\refint\dio-desafio-github.dll
+C:\Users\anthc\workspace\dio-desafio-github\obj\Debug\net6.0\dio-desafio-github.pdb
+C:\Users\anthc\workspace\dio-desafio-github\obj\Debug\net6.0\dio-desafio-github.genruntimeconfig.cache
+C:\Users\anthc\workspace\dio-desafio-github\obj\Debug\net6.0\ref\dio-desafio-github.dll
