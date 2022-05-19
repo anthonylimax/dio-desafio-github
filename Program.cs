@@ -13,6 +13,9 @@ namespace CalculadoraSimple{
              else if(input == "multiplicacao"){
                  result *= userValue;
              }
+             else if(input == "divisao"){
+                 result /= userValue;
+             }
              return result;
         }
         static void Main(string[] args){
