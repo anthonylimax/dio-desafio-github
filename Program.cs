@@ -3,32 +3,26 @@
 namespace CalculadoraSimple{
 
     class CalculadoraSimple{
+        static double ReturnOperation(string input, double result, double userValue){
+             if(input == "adicao" ){
+                 result += userValue;
+             }
+             else if(input == "subtracao"){
+                 result -= userValue;
+             }
+             return result;
+        }
         static void Main(string[] args){
-            bool isTrue = true;
             double result = 0;
-            int i = 0;
-                while(isTrue){
-                    
-                    System.Console.WriteLine("qual valor deseja inserir?");
-                    double userValue = double.Parse(Console.ReadLine());
-                    if(i == 0)result = userValue;
-                    i++;
-                    Console.Clear();
-                    System.Console.WriteLine("qual tipo de operação deseja usar?\nsubstracao\nadicao\nmultiplicacao\ndivisao\nigual(= resultado final)\n[digite o nome da operacao da mesma forma que foi apresentada]");
-                    string userInput = Console.ReadLine();
-                    Console.Clear();
-                    if(userInput == "igual"){
-                        System.Console.WriteLine("o resultado foi este: {0}", result);
-                        isTrue = false;
-                        break;
-                    }
-                    switch(userInput){
-                        case "adicao":
-                        result += userValue;
-                        break;
-                    }
-                }
-            
+                        System.Console.WriteLine("digite um valor desejado:");
+                        double value = double.Parse(Console.ReadLine());
+                        Console.Clear();
+                         System.Console.WriteLine("qual operacao deseja fazer?(digite-a sem acentuacao ou caracter especial)");
+                         string input = Console.ReadLine();
+                        System.Console.WriteLine("digite um valor desejado:");
+                        double aux = double.Parse(Console.ReadLine());
+                        result = ReturnOperation(input, value, aux);
+                        System.Console.WriteLine("O valor final foi: " + result);
         }
     }
 }
