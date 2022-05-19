@@ -10,6 +10,9 @@ namespace CalculadoraSimple{
              else if(input == "subtracao"){
                  result -= userValue;
              }
+             else if(input == "multiplicacao"){
+                 result *= userValue;
+             }
              return result;
         }
         static void Main(string[] args){
